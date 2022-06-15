@@ -1,0 +1,21 @@
+ninja ai
+
+//ai will be enemy for player in the game
+
+class ninja:
+
+
+
+    player = player.player
+    playerLocation = player.x,y
+    
+
+
+
+
+
+
+    def movement
+    def attack
+    def ability
+    def counter
